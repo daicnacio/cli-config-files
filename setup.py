@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
         name='test_data_files',
         version='0.1.0',
-        author='David Azócar, Carlos Gajardo',
+        author='David Azócar',
         author_email='dazocar@centroenergia.cl',
         license='GPL',
         packages=find_packages(exclude=['tests*','use_cases*']),
