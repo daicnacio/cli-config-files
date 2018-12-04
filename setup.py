@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-        name='test_data_files',
+        name='test-data-files',
         version='0.1.0',
         author='David Azócar',
         author_email='dazocar@centroenergia.cl',
